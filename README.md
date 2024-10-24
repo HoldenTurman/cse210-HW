@@ -1,4 +1,4 @@
-# cse210-student-template
+# cse210-Project-Overview
 This is the starter code for students in CSE 210.
 Testing Git controls by updating the README file.
 
