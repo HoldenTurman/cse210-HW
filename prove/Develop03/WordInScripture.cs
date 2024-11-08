@@ -1,3 +1,4 @@
+
 using System.Dynamic;
 
 public class WordInScripture
@@ -23,4 +24,8 @@ public class WordInScripture
     {
         return _isHidden ? new string('_', _text.Length) : _text;
     }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 0df8a2f3a9e5c9c8df62b8a0e0b7ba808e34e89a
