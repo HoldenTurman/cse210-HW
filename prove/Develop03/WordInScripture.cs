@@ -1,3 +1,5 @@
+using System.Dynamic;
+
 public class WordInScripture
 {
     // Field for the word text and whether it's hidden
