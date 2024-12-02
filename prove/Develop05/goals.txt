@@ -1,0 +1,2 @@
+SimpleGoal|workout|hit the gym|100
+ChecklistGoal|workout|hit the gym|10|3|500|3
