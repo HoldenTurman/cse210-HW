@@ -38,12 +38,18 @@ class Program
         Console.WriteLine(order1.GetShippingLabel());
         Console.WriteLine("Total Cost: $" + order1.GetTotalCost().ToString("0.00") + "\n");
 
+        Console.WriteLine("--------------------------------------");
+
         Console.WriteLine(order2.GetPackingLabel());
         Console.WriteLine(order2.GetShippingLabel());
         Console.WriteLine("Total Cost: $" + order2.GetTotalCost().ToString("0.00") + "\n");
 
+        Console.WriteLine("--------------------------------------");
+
         Console.WriteLine(order3.GetPackingLabel());
         Console.WriteLine(order3.GetShippingLabel());
         Console.WriteLine("Total Cost: $" + order3.GetTotalCost().ToString("0.00"));
+
+        Console.WriteLine("--------------------------------------");
     }
 }
